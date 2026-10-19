@@ -1,0 +1,39 @@
+"DATO and I were strolling in the Supreme Pontiff's gardens at the Vaticanand we went from
+topic to topic marveling at the ingenuity that menshowed in various enterprises, till Dato
+gave expression to his warmadmiration for those men who can exploit what are called 'ciphers.'
+"So wrote Leon Battista Alberti near the beginning of the succinct butsuggestive work
+that earned him the title of Father of WesternCryptology. Alberti was the first of a group
+of writers who, element byelement, developed a type of cipher to which most of today's systems
+ofcryptography belong. The species is polyalphabetic substitution.It was the amateurs of
+cryptology who created the species. Theprofessionals, who almost certainly surpassed them in
+cryptanalyticexpertise, concentrated on the down-to-earth problems of the systemsthat
+were then in use but are now outdated. The amateurs, unfettered tothese realities, soared
+into the empyrean of theory. There were fourwhose thought took wings: a famous architect, an
+intellectual cleric, anecclesiastical courtier, and a natural scientist.The architect was
+Alberti, a man who, perhaps better than anyoneexcept Leonardo da Vinci, epitomizes the
+Renaissance ideal of theuniversal man. Born in 1404, the illegitimate but favored son of a
+familyof rich Florentine merchants, Alberti enjoyed extraordinary intellectualand athletic
+aptitudes. He painted, composed music, and was regardedas one of the best organists of his day.
+Writings poured from his pen. HisDe Re Aedificatoria, the first printed book on
+architecture, written whileGothic churches were still being built, helped shape the
+thoughts ofthose who built such utterly non-Gothic structures as St. Peter's Basilicain
+Rome. Jacob Burckhardt, author of the classic The Civilization of theRenaissaance in Italy,
+singled out Alberti as one of the truly all-sidedmen who tower above their numerous many-sided
+contemporaries. Andanother great Renaissance scholar, John Symonds, declared that
+"Hepresents the spirit of the 15th century at its very best."Among his friends was the
+pontifical secretary, Leonardo Dato, one ofthe learned men of his age, who during that memorable
+stroll in theVatican gardens brought the conversation around to cryptology. "You'vealways been
+interested in these secrets of nature," Dato said. "What doyou think of these decipherers?
+Have you tried your hand at it, as muchas you know how to?"Alberti smiled. He knew that Date's
+duties included ciphers (it wasbefore the curia had a separate cipher secretary). "You're the
+head of thepapel secretariat," he teased. "Could it be that you had to use thesethings a few
+times in matters of great importance to His Holiness?""That's why I brought it up," Dato
+replied candidly. "And because ofthe post I have, I want to be able to do it myself without
+having to useoutside interpreters. For when they bring me letters in cipher interceptedby
+spies, it's no joking matter. So please—if you've thought up any newideas having to do with
+this business, tell me about them." So Albertipromised that he would do some work on it so
+that Dato would see thatit was profitable to have asked him, and the result was the essay
+that hewrote in 1466 or early 1467, when he was 62 or 63.He implied that he thought up the
+idea of frequency analysis all byhimself, but the conception that he set forth is far too
+matured for that.Nevertheless, his remarkably lucid Latin essay, totaling about 25manuscript
+pages, constitutes the West's oldest extant text oncryptanalysis.
