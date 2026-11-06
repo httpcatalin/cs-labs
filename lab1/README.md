@@ -8,10 +8,4 @@ Run:
 python3 caesar.py
 ```
 
-Tests:
-
-```
-python3 -m unittest -v test_caesar
-```
-
 Report: `report.pdf`

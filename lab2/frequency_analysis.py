@@ -23,15 +23,17 @@ HELP = """Commands:
   quit       exit"""
 
 
+# V=e W=t Q=h T=a X=i P=s G=n O=d N=o C=f R=w H=c U=p I=r F=y S=l J=g D=u Z=m A=b K=v Y=x L=k E=j B=q M=z
+
 def letter_frequencies(text):
     counts = Counter(ch.upper() for ch in text if ch in LETTERS)
     total = sum(counts.values())
     table = [(letter, counts[letter], 100 * counts[letter] / total) for letter in UPPER]
-    return sorted(table, key=lambda row: (-row[1], row[0]))
+    return sorted(table, key=lambda row: (-row[1], row[0])) #dupa count desc
 
 
 def english_order():
-    return sorted(UPPER, key=lambda letter: -ENGLISH[letter])
+    return sorted(UPPER, key=lambda letter: -ENGLISH[letter]) #sortat pe frecv
 
 
 def common_words(text, length, top=5):
